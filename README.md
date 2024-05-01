@@ -33,8 +33,7 @@ To play "Droppin' Tilted," follow these simple steps:
 1. Download the latest release from the repository's [Releases](#) page.
 2. Unzip the downloaded file.
 3. Run the executable and dive into the puzzle.
-
-## Acknowledgments
+   
 
 Enjoy your exquisite puzzle-solving adventure, and may it be as enjoyable to play as it was to create :)
 
