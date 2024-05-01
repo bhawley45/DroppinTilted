@@ -43,5 +43,9 @@ Enjoy your exquisite puzzle-solving adventure, and may it be as enjoyable to pla
 
 ---
 
+### Using Git Large File Storage (LFS)
+
+This project uses Git LFS to manage large files. Ensure you have Git LFS installed on your system before cloning the project. You can install Git LFS and set it up by following the instructions at [https://git-lfs.github.com/](https://git-lfs.github.com/).
+
 For support, feature requests, or contributions, please submit an issue directly on the GitHub issues page of this project. This helps keep discussions public and benefit others who might have similar questions or issues.
 
