@@ -5,6 +5,10 @@
 ## Overview
 
  Embark on a magical journey through the world of Droppin' Tilted (single level), a physics puzzle game where your wits and dexterity are put to the test. Travel through a multitude(4) of lands, unearthing no secrets (maybe?) as you decide the fate of your specific instance of this masterpiece of game. 
+ 
+ The adventure is simple but fun, you control the pitch and roll of the entire maze platform with W A S D keys. Your goal is to guide the ball through different sections of the maze and find the goal. Right now there's only a single level (minigolf) but more levels to come in a complete project revamp. 
+ 
+ Bonus Challenge: Try not to get lagged out by the park flower beds... or jumpscared?
 
 ## Features
 
