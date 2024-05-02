@@ -43,6 +43,20 @@ Enjoy your exquisite puzzle-solving adventure, and may it be as enjoyable to pla
 
 ---
 
+### Important Note on Windows SmartScreen Warning
+
+When you download and run this application, Windows may display a SmartScreen warning because the software is unsigned. This is a common warning for applications downloaded from the Internet and does not indicate any risk.
+
+To proceed with installing and running the game:
+
+1. Click on **More info**.
+2. Then click **Run anyway**.
+
+This will allow you to install and enjoy the game without any issues. Thank you for checking out my portfolio project!
+
+
+---
+
 ### Using Git Large File Storage (LFS)
 
 This project uses Git LFS to manage large files. Ensure you have Git LFS installed on your system before cloning the project. You can install Git LFS and set it up by following the instructions at [https://git-lfs.github.com/](https://git-lfs.github.com/).
